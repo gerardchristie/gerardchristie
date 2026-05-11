@@ -1,4 +1,4 @@
-Gerard Christie
+Gerry Christie
 
 Test Manager and Quality Engineering professional with 25+ years across enterprise software, financial services, government, and manufacturing in New Zealand and internationally.
 Since October 2024 I've been building AI-augmented testing tooling in production — as a functional practitioner with no software development background. The work is real, the results are measurable, and most of it started with a problem rather than a technology.
