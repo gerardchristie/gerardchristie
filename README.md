@@ -5,7 +5,7 @@ Since October 2024 I've been building AI-augmented testing tooling in production
 
 Things I've shipped:
 
-AC Quality Gate — Make.com + Claude API + Azure DevOps integration. Scores every Acceptance Criterion across 6 quality dimensions, routes User Stories, posts structured feedback, and generates ready-to-import test case CSV files. Under 60 seconds per story. ~55 minutes saved per User Story. In daily use across a 20+ person delivery team.
+AC Quality Gate — Make.com + Claude API + Azure DevOps integration. Scores every Acceptance Criterion across 6 quality dimensions, routes User Stories, posts structured feedback, and generates ready-to-import test case CSV files. Under 60 seconds per story. ~55 minutes saved per User Story. 
 Oracle HCM Playwright Suite — UI regression automation for Oracle HCM Cloud quarterly releases. 25/26 tests passing. Built with Claude Code as a coding assistant.
 ServiceNow ATF Suite — 96 automated tests across 8 suites for enterprise regression coverage.
 
